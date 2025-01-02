@@ -1,1 +1,2 @@
 # VishiWorks-Job-Portal-Website-using-bootstrap
+A fully responsive job portal website built using Bootstrap 5 without any external CSS files. VishiWorks provides a platform for job seekers to explore hiring opportunities and internships. The project includes key Bootstrap components like a responsive navbar, cards, sliders, and modals, ensuring a seamless user experience across all devices. Perfect for showcasing modern, minimalistic design and functionality
